@@ -3,9 +3,6 @@
 
 #include "level2.h"
 
-
-void bob() {
-  tick();
-}
+void bob();
 
 #endif
