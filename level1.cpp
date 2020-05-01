@@ -3,4 +3,8 @@
 
 #include "level1.h"
 
+void bob() {
+  tick();
+}
+
 #endif
